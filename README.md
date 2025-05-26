@@ -1,6 +1,8 @@
 # 💫 About Me:
 🌱 I’m currently learning CSS<br><br>👨‍💻 All of my projects are available at [In progress](In progress)<br><br>📝 I regularly write articles on https://dev.to/atharva_bhangale_12eadde0<br><br>📫 How to reach me bhangaleatharva780@gmil.com<br><br>📄 Know about my experiences https://www.linkedin.com/in/atharva-bhangale-576061335/<br><br>⚡ Fun fact I am very creative Student
 
+![trophy](https://github-profile-trophy.vercel.app/?username=kattni)
+
 
 ## 🌐 Socials:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/https://www.behance.net/atharvabhangale1) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/atharvaa.s) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/atharva-bhangale-576061335) [![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/https://codepen.io/Atharva-del-byte) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bhangaleatharva3@gmail.com) 
