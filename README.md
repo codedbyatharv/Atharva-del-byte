@@ -36,4 +36,4 @@ Frontend Developer
 
 <a href="http://www.github.com/codedbyatharv"><img src="https://github-readme-streak-stats.herokuapp.com/?user=codedbyatharv&stroke=f97316&background=0f172a&ring=0891b2&fire=0891b2&currStreakNum=f97316&currStreakLabel=0891b2&sideNums=f97316&sideLabels=f97316&dates=f97316&hide_border=true" /></a>
 
-<a href="https://github.com/codedbyatharv" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codedbyatharv&langs_count=10&title_color=0891b2&text_color=f97316&icon_color=f97316&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/codedbyatharv" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codedbyatharv&langs_count=10&title_color=0891b2&text_color=f97316&icon_color=f97316&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a> ?
